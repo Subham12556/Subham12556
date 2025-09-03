@@ -4,9 +4,9 @@
 I’m passionate about **Machine Learning, Python, and Full-Stack Development**. I love building **real-time AI projects**, web apps, and data-driven solutions that solve real-world problems.
 
 ## 🌱 Currently Learning
-- Advanced **Deep Learning & LSTM models**
+
 - **Flask / FastAPI** for backend development
-- **React.js & Next.js** for dynamic frontends
+- **React.js** for dynamic frontends
 - **AI model deployment** and cloud integration
 
 ## 💞️ Collaboration
